@@ -1,2 +1,5 @@
-# FatimiSoftwareApps
-Official Android applications by Fatimi Software
+# Fatimi Software Apps
+
+Official Android applications by Fatimi Software.
+
+Website: https://fatimisoftware.com
